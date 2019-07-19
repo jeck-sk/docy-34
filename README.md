@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # itart
 
 ## Project setup
@@ -36,3 +37,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # prote_34
 >>>>>>> 128522cf0ab1ccd0c32b4a093266c140a2aa0561
+=======
+# docy-34
+hublle
+>>>>>>> 636b5986b98e75c93160d70477e306774f77d340
